@@ -1,6 +1,6 @@
 # AspheraBOT WebSite
 
-![AspheraBOT Logo](public/images/Asphera-PNG.png)
+![AspheraBOT Logo](public/images/Asphera%20BANNER.png)
 
 ## Tanıtım / Introduction
 
