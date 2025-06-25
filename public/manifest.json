@@ -1,0 +1,11 @@
+{
+  "short_name": "AspheraBOT",
+  "name": "AspheraBOT – Akıllı Discord Botu | Smart Discord Bot",
+  "description": "AspheraBOT, sunucunuz için gelişmiş özellikler sunan akıllı bir Discord botudur. | AspheraBOT is a smart Discord bot offering advanced features for your server.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#6030FF",
+  "background_color": "#0f172a",
+  "lang": "tr,en"
+}
