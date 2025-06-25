@@ -56,7 +56,7 @@ function App() {
   useEffect(() => {
     const fetchBotStats = async () => {
       try {
-        const res = await fetch('/api/proxy-bot-status');
+        const res = await fetch('https://asphera-status.onrender.com/api/bot-status');
         const data = await res.json();
         setBotStats({
           servers: data.guildCount || 0,
